@@ -1,6 +1,5 @@
-# Getting Started with Create React App
+# CLIKTIK 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## About Cliktik: 
 MERN based web application.
@@ -19,7 +18,7 @@ The videos displayed can be liked or unliked.
 It displays no of shares and no of comments. 
 Displays Message ticker Revolving Diskkette at the bottom of the Video.
 
-
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
