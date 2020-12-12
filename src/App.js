@@ -1,9 +1,5 @@
 import React, { useEffect, useState } from 'react';
 import './App.css';
-
-// import Video from './components/Video/Video';
-// import Testit from './components/Testit';
-// import Videocover from './components/Videocover';
 import Videoplayer from './components/Vplayer/Videoplayer';
 import axios from './axios';
 function App() {
