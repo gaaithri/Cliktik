@@ -9,8 +9,7 @@ The application is built using the React for the frontend and MongoDb -NoSqlDb f
 The frontend is hosted on the Firebase and the MongoDb is hosted on the Heroku.
 The project is accessible at the following link.
 
-#### Web Link
-URL : https://clicktikbff3.web.app/
+#### Access the Application [Clicktik]( https://clicktikbff3.web.app/)
 
 ### Features of the App. 
 
